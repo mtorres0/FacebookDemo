@@ -1,0 +1,6 @@
+framework module Pods_FacebookPirataTests {
+  umbrella header "Pods-FacebookPirataTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
